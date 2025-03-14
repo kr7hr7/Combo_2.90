@@ -6,6 +6,7 @@
                                                                                                   */
 char* ver = "Combo_2.90";                                                                        /*
   
+
   2.90     01.09.25 EEPROM function is solid, setup error codes and OTA recovery
   2.82     01.09.25 table  to auto match gateType to machine ID COrrected several bugs in EEPROM functions
   2.80     01.07.25 EEPROM is working
